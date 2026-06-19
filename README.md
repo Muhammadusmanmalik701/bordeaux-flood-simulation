@@ -8,6 +8,8 @@
 
 ## 📸 Preview
 <img width="1365" height="643" alt="image" src="https://github.com/user-attachments/assets/1b94df07-5523-4ffa-a807-6f1ae2c1f4b8" />
+<img width="1365" height="644" alt="image" src="https://github.com/user-attachments/assets/d0644502-8e27-4278-8d40-b4ebfa07e0ad" />
+
 <img width="1363" height="641" alt="image" src="https://github.com/user-attachments/assets/8dad2aaa-8838-4008-8679-a4713e57d48f" />
 
 The simulation shows:
